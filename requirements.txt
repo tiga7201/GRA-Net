@@ -1,0 +1,16 @@
+scipy~=1.5.2
+numpy~=1.19.2
+matplotlib~=3.2.2
+opencv_python==4.1.2.30
+torch~=1.8.1+cu101
+torchvision==0.4.0
+tqdm~=4.50.2
+Pillow~=8.0.1
+h5py==2.10.0
+
+einops~=0.4.1
+opencv-python~=4.5.2.52
+thop~=0.0.31-2005241907
+torchsummary~=1.5.1
+augmentor~=0.2.10
+labelme~=3.16.7
